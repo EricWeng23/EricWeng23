@@ -15,6 +15,9 @@ I am a Computer Science student at Cornell University with a strong interest in 
 ### ⚙️ Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=py,flask,nodejs,java,ocaml,cpp,vscode,html,js,css,docker,aws,git,github,react,vue,pinia,typescript,firebase,figma,postman,vite&perline=10&theme=dark)](https://skillicons.dev)
 
+### Github Stats
+[![ericweng23's GitHub stats-Dark](https://github-readme-stats-delta-puce-46.vercel.app/api?username=ericweng23&rank_icon=github&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/huajie-zhong/github-readme-stats#gh-dark-mode-only) <br>
+
 ### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericweng23&theme=tokyonight&show_icons=true&layout=compact&langs_count=6)
 
