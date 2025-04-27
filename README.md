@@ -1,7 +1,7 @@
 # (¬‿¬) Eric Weng
 
 **`Computer Science Student`** **`FullStack Developer`** **`SWE Intern`**
-- 🔭 I’m currently working on Queue Me In
+- 🔭 I’m currently working on Queue Me In, CURaise, and Tabime
 - 💬 Ask me about the NBA, Anime, and Model-Kit Building
 - 📫 How to reach me: ew522@cornell.edu
 - 😄 Pronouns: He/Him
